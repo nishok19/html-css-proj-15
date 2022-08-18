@@ -459,8 +459,13 @@ nav {
     flex-direction: column;
   }
 
+  .hero-img {
+    display: flex;
+    justify-content: center;
+  }
+
   .hero-img img {
-    width: 400px;
+    width: 500px;
   }
 
   .hero-desc {
